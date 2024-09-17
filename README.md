@@ -1,2 +1,2 @@
 # BusinessIntelligence
-Projekat iz predmeta Poslovna inteligencija
+Tema: Segmentacija kupaca i analiza potrošačke korpe
